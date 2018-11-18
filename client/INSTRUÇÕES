@@ -1,0 +1,2 @@
+ADD PATH
+export PYTHONPATH=$PYTHONPATH:/home/davi/Documentos/Mestrado/Projeto_IA_SD/models/research:/home/davi/Documentos/Mestrado/Projeto_IA_SD/models/research/slim
